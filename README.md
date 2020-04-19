@@ -9,9 +9,9 @@ ESP32 Controlled Grow System
 ### Bluetooth Terminal Communication
 For Windows, I use putty.
 * Expand “Ports (COM & LPT)” in Device Manager
-![Image of Ports](https://octodex.github.com/images/yaktocat.png)
+![Image of Ports](./README_src/ports.png)
 * Launch PuTTY (or another terminal program if you choose.)
-![Image of Ports](https://octodex.github.com/images/yaktocat.png)
+![Image of Ports](./README_src/putty2.png)
 * Connect to the indicated COM port at baud rate 9600 (you can play with other baud rates if you prefer.)
 
 ### Windows Xamarin
